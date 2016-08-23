@@ -2,7 +2,9 @@
 ### Hemos creado un diagrama para ver la forma como es el proceso del pedido
 
 1.- inicio 
+-----------
 2.- Mirar anuncio 
+----------------
 3.- ¿Que pedir?
  -pollo
  -carne
